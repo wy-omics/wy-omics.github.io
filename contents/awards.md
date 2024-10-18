@@ -1,9 +1,2 @@
-- First-prize Academic Scholarship, 2023.
+* 柑橘贮藏物流保鲜关键技术研发与应用，教育部科技进步一等奖, 2022（10/11）
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
