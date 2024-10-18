@@ -26,7 +26,7 @@
 
 13. Sun Chongde, **Wang Yue**, Cao Jinping; HYPOGLYCEMIC USAGE OF MANDARIN ORANGE FRUIT EXTRACT，尼日利亚发明专利（CRP: 009283, RP: F/PT/NC/2024/12354, Date of Patent: 14/05/2024）
 
-
+ 
 
 #### 标准：
 
