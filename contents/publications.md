@@ -1,42 +1,44 @@
 #### 第一或通讯作者发表论文 / First or Corresponding Author
 
-1. Liu Lili, Hu Can, Cheng Huilin, Ma Chuangju, Sun Jiancheng, Chen Yunyi, Wu Manxi, Yang Han, Sun Cui, Cao Jinping,Wang Dengliang*, **Wang Yue***, Sun Chongde. Inhibitory effect of Ponkan (*Citrus* *reticulata* 'Ponkan') flavonoids on oral ulcers through Jak2-Stat3 signaling pathway[J]. **Phyton-International Journal of Experimental Botany**, 2024, 93(9), 2499-2518. (IF5 = 1.2)
+1. Xiao Liang#, **Yue Wang**#, Wanxia Shen#, Bin Liao, Xiaojuan Liu, Zimeng Yang, Jiebiao Chen, Chenning Zhao, Zhenkun Liao, Jinping Cao, Ping Wang, Peng Wang, Fuzhi Ke, Jianguo Xu, Qiong Lin, Wanpeng Xi, Lishu Wang, Juan Xu, Xiaochun Zhao, Chongde Sun*. [Genomic and metabolomic insights into the selection and differentiation of bioactive compounds in citrus](https://www.sciencedirect.com/science/article/pii/S1674205224003319)[J]. **Molecular Plant**, 2024. (IF5 = 21.4)
 
-2. Chen Yunyi, Ma Hanbing, Liang Jiaojiao, Sun Cui, Wang Dengliang, Chen Kang, Zhao Jinmiao, Ji Shiyu, Ma Chao, Ye Xianming, Cao Jinping, **Wang Yue***, Sun Chongde. Hepatoprotective potential of four fruit extracts rich in different structural flavonoids against alcohol-induced liver injury via gut microbiota-liver axis [J]. **Food Chemistry**, 2024,460: 140460. (IF5 = 8.2)
+2. Liu Lili, Hu Can, Cheng Huilin, Ma Chuangju, Sun Jiancheng, Chen Yunyi, Wu Manxi, Yang Han, Sun Cui, Cao Jinping,Wang Dengliang*, **Wang Yue***, Sun Chongde. Inhibitory effect of Ponkan (*Citrus* *reticulata* 'Ponkan') flavonoids on oral ulcers through Jak2-Stat3 signaling pathway[J]. **Phyton-International Journal of Experimental Botany**, 2024, 93(9), 2499-2518. (IF5 = 1.2)
 
-3. Chen Jiebiao, Xu Wanhua, Liu Yang, Liang Xiao, Chen Yunyi, Liang Jiaojiao, Cao Jinping, Lu Baiyi Sun Chongde, **Wang Yue***.  *Lonicera* *japonica* Thunb. and its characteristic component chlorogenic acid alleviated experimental colitis by promoting *Lactobacillus* and fecal short‐chain fatty acids production [J]. **Food Frontiers**, 2024. (IF5 = 9.4).
+3. Chen Yunyi, Ma Hanbing, Liang Jiaojiao, Sun Cui, Wang Dengliang, Chen Kang, Zhao Jinmiao, Ji Shiyu, Ma Chao, Ye Xianming, Cao Jinping, **Wang Yue***, Sun Chongde. Hepatoprotective potential of four fruit extracts rich in different structural flavonoids against alcohol-induced liver injury via gut microbiota-liver axis [J]. **Food Chemistry**, 2024,460: 140460. (IF5 = 8.2)
 
-4. Liang Xiao, Wang Huixin, Xu Wanhua, Liu Xiaojuan, Zhao Chenning, Chen Jiebiao, Wang Dengliang, Xu Shuting, Cao Jinping, Sun Chongde, **Wang Yue***. Metabolome and Transcriptome Analysis Revealed the Basis of the Difference in Antioxidant Capacity in Different Tissues of Citrus reticulata ‘Ponkan’ [J]. **Antioxidants**, 2024, 13(2): 243. (IF5 = 6.7)
+4. Chen Jiebiao, Xu Wanhua, Liu Yang, Liang Xiao, Chen Yunyi, Liang Jiaojiao, Cao Jinping, Lu Baiyi Sun Chongde, **Wang Yue***.  *Lonicera* *japonica* Thunb. and its characteristic component chlorogenic acid alleviated experimental colitis by promoting *Lactobacillus* and fecal short‐chain fatty acids production [J]. **Food Frontiers**, 2024. (IF5 = 9.4).
 
-5. Yan Qunjiao, Chen Yunyi, Wu Manxi, Yang Han, Cao Jinping, Sunchongde, **Wang Yue***. Phenolics and Terpenoids Profiling in Diverse Loquat Fruit Varieties and Systematic Assessment of Their Mitigation of Alcohol-Induced Oxidative Stress [J]. **Antioxidants**, 2023, 12(10): 1795. (IF5 = 6.7)
+5. Liang Xiao, Wang Huixin, Xu Wanhua, Liu Xiaojuan, Zhao Chenning, Chen Jiebiao, Wang Dengliang, Xu Shuting, Cao Jinping, Sun Chongde, **Wang Yue***. Metabolome and Transcriptome Analysis Revealed the Basis of the Difference in Antioxidant Capacity in Different Tissues of Citrus reticulata ‘Ponkan’ [J]. **Antioxidants**, 2024, 13(2): 243. (IF5 = 6.7)
 
-6. Zhu Chagnqing, Chen Jiebiao, Zhao Chenning, Liu Xiaojuan, Chen Yunyi, Liang Jiaojiao, Cao Jinping, **Wang Yue***, Sun Chongde. Advances in extraction and purification of citrus flavonoids [J]. **Food** **Frontiers**, 2023, 4(2):750-781. (IF5 = 9.4)
+6. Yan Qunjiao, Chen Yunyi, Wu Manxi, Yang Han, Cao Jinping, Sunchongde, **Wang Yue***. Phenolics and Terpenoids Profiling in Diverse Loquat Fruit Varieties and Systematic Assessment of Their Mitigation of Alcohol-Induced Oxidative Stress [J]. **Antioxidants**, 2023, 12(10): 1795. (IF5 = 6.7)
 
-7. Sun Liping, Huo Jingtian, Liu Jieya, Yu Jiayi, Zhou Jialing, Sun Chongde, **Wang Yue***, Leng Feng*. Anthocyanins distribution, transcriptional regulation, epigenetic and post-translational modification in fruits [J]. **Food Chemistry**, 2023: 135540. (IF5 = 8.2, 高被引论文, Highly Cited Papers)
+7. Zhu Chagnqing, Chen Jiebiao, Zhao Chenning, Liu Xiaojuan, Chen Yunyi, Liang Jiaojiao, Cao Jinping, **Wang Yue***, Sun Chongde. Advances in extraction and purification of citrus flavonoids [J]. **Food** **Frontiers**, 2023, 4(2):750-781. (IF5 = 9.4)
 
-8. Chen Yunyi, Liang Jiaojiao, Wang Dengliang, Chen Jiebiao, Cao Jinping, **Wang Yue***, Sun Chongde*. Nobiletin as a chemopreventive natural product against cancer, a comprehensive review [J]. **Critical Reviews in Food Science and Nutrition**, 2023, 23(63):6309-6329. (IF5 = 10.3)
+8. Sun Liping, Huo Jingtian, Liu Jieya, Yu Jiayi, Zhou Jialing, Sun Chongde, **Wang Yue***, Leng Feng*. Anthocyanins distribution, transcriptional regulation, epigenetic and post-translational modification in fruits [J]. **Food Chemistry**, 2023: 135540. (IF5 = 8.2, 高被引论文, Highly Cited Papers)
 
-9. Chen Jiebiao, Shu Yichen, Chen Yanhong, Ge Zhiwei, Zhang Changfeng, Cao Jinping, Li Xian, **Wang Yue***, Sun Chongde. Evaluation of Antioxidant Capacity and Gut Microbiota Modulatory Effects of Different Kinds of Berries [J]. **Antioxidants**, 2022, 11(5): 1020. (IF5 = 6.7)
+9. Chen Yunyi, Liang Jiaojiao, Wang Dengliang, Chen Jiebiao, Cao Jinping, **Wang Yue***, Sun Chongde*. Nobiletin as a chemopreventive natural product against cancer, a comprehensive review [J]. **Critical Reviews in Food Science and Nutrition**, 2023, 23(63):6309-6329. (IF5 = 10.3)
 
-10. **Wang Yue**, Liu Xiaojuan, Chen Jiebiao, Cao Jinping, Li Xian, Sun Chongde*. Citrus flavonoids and their antioxidant evaluation [J]. **Critical Reviews in Food Science and Nutrition**, 2022, Jan(12): 1-22. (IF5 = 10.3)
+10. Chen Jiebiao, Shu Yichen, Chen Yanhong, Ge Zhiwei, Zhang Changfeng, Cao Jinping, Li Xian, **Wang Yue***, Sun Chongde. Evaluation of Antioxidant Capacity and Gut Microbiota Modulatory Effects of Different Kinds of Berries [J]. **Antioxidants**, 2022, 11(5): 1020. (IF5 = 6.7)
 
-11. **Wang Yue**, Song Bo, Chen Jiebiao, Cao Jinping, Li Xian, Sun Chongde*. Polymethoxyflavones in citrus regulate lipopolysaccharide-induced oscillating decay of circadian rhythm by inhibiting Nlrp3 expression [J]. **Oxidative Medicine and Cellular Longevity**, 2021. (IF5 = )
+11. **Wang Yue**, Liu Xiaojuan, Chen Jiebiao, Cao Jinping, Li Xian, Sun Chongde*. Citrus flavonoids and their antioxidant evaluation [J]. **Critical Reviews in Food Science and Nutrition**, 2022, Jan(12): 1-22. (IF5 = 10.3)
 
-12. **Wang Yue**, Jin Rong, Chen Jiebiao, Cao Jinping, Xiao Jianbo, Li Xian, Sun Chongde*. Tangeretin maintains antioxidant activity by reducing CUL3 mediated NRF2 ubiquitination [J]. **Food Chemistry**, 2021, 365,130340. (IF5 = 8.2)
+12. **Wang Yue**, Song Bo, Chen Jiebiao, Cao Jinping, Li Xian, Sun Chongde*. Polymethoxyflavones in citrus regulate lipopolysaccharide-induced oscillating decay of circadian rhythm by inhibiting Nlrp3 expression [J]. **Oxidative Medicine and Cellular Longevity**, 2021. (IF5 = )
 
-13. **Wang Yue**, Chen Yunyi, Zhang He, Chen Jiebiao, Cao Jinping, Chen Qingjun, Li Xian, Sun Chongde*. Polymethoxyflavones from citrus inhibited gastric cancer cell proliferation through inducing apoptosis by upregulating *RARβ*, both *in vitro* and *in vivo*[J]. **Food and Chemical Toxicology**, 2020, 146: 111811. (IF5 = 4.5)
+13. **Wang Yue**, Jin Rong, Chen Jiebiao, Cao Jinping, Xiao Jianbo, Li Xian, Sun Chongde*. Tangeretin maintains antioxidant activity by reducing CUL3 mediated NRF2 ubiquitination [J]. **Food Chemistry**, 2021, 365,130340. (IF5 = 8.2)
 
-14. Chen Jiebiao#, **Wang Yue#**, Zhu Tailin, Yang Sijia, Cao Jinping, Li Xian, Wang Lishu, Sun Chongde*. Beneficial Regulatory Effects of Polymethoxyflavone—Rich Fraction from Ougan (*Citrus* *reticulata* cv. Suavissima) Fruit on Gut Microbiota and Identification of Its Intestinal Metabolites in Mice[J]. **Antioxidants**, 2020, 9(9): 831. (IF5 = 6.7)
+14. **Wang Yue**, Chen Yunyi, Zhang He, Chen Jiebiao, Cao Jinping, Chen Qingjun, Li Xian, Sun Chongde*. Polymethoxyflavones from citrus inhibited gastric cancer cell proliferation through inducing apoptosis by upregulating *RARβ*, both *in vitro* and *in vivo*[J]. **Food and Chemical Toxicology**, 2020, 146: 111811. (IF5 = 4.5)
 
-15. Liu Xiaojuan#, **Wang Yue#**, Chen Yezhi, Xu Shuting, Gong Qin, Zhao Chenning, Cao Jinping, Sun Chongde*. Characterization of a Flavonoid 3’/5’/7-O-Methyltransferase from *Citrus* *reticulata* and Evaluation of the In Vitro Cytotoxicity of Its Methylated Products[J]. **Molecules**, 2020, 25(4): 858. (IF5 = 4.6)
+15. Chen Jiebiao#, **Wang Yue#**, Zhu Tailin, Yang Sijia, Cao Jinping, Li Xian, Wang Lishu, Sun Chongde*. Beneficial Regulatory Effects of Polymethoxyflavone—Rich Fraction from Ougan (*Citrus* *reticulata* cv. Suavissima) Fruit on Gut Microbiota and Identification of Its Intestinal Metabolites in Mice[J]. **Antioxidants**, 2020, 9(9): 831. (IF5 = 6.7)
 
-16. **Wang Yue**, Zang Wenjing, Ji Shiyu, Cao Jinping, Sun Chongde*. Three polymethoxyflavones purified from Ougan (*Citrus* *reticulata* Cv. Suavissima) inhibited LPS-induced NO elevation in the neuroglia BV-2 cell line via the JAK2/STAT3 pathway[J]. **Nutrients**, 2019, 11(4): 791. (IF5 = 5.8)
+16. Liu Xiaojuan#, **Wang Yue#**, Chen Yezhi, Xu Shuting, Gong Qin, Zhao Chenning, Cao Jinping, Sun Chongde*. Characterization of a Flavonoid 3’/5’/7-O-Methyltransferase from *Citrus* *reticulata* and Evaluation of the In Vitro Cytotoxicity of Its Methylated Products[J]. **Molecules**, 2020, 25(4): 858. (IF5 = 4.6)
 
-17. **Wang Yue**, Ji Shiyu, Zang Wenjing, Wang Nianchen, Cao Jinping, Li Xian, Sun Chongde*. Identification of phenolic compounds from a unique citrus species, finger lime (*Citrus* *australasica*) and their inhibition of LPS-induced NO-releasing in BV-2 cell line[J]. **Food and Chemical Toxicology**, 2019, 129: 54-63. (IF5 = 4.5)
+17. **Wang Yue**, Zang Wenjing, Ji Shiyu, Cao Jinping, Sun Chongde*. Three polymethoxyflavones purified from Ougan (*Citrus* *reticulata* Cv. Suavissima) inhibited LPS-induced NO elevation in the neuroglia BV-2 cell line via the JAK2/STAT3 pathway[J]. **Nutrients**, 2019, 11(4): 791. (IF5 = 5.8)
 
-18. **Wang Yue**, Qian Jing, Cao Jinping, Wang Dengliang, Liu Chunrong, Yang Rrongxi, Li Xian, Sun Chongde*. Antioxidant capacity, anticancer ability and flavonoids composition of 35 citrus (*Citrus* *reticulata* Blanco) varieties[J]. **Molecules**, 2017, 22(7): 1114. (IF5 = 4.6)
+18. **Wang Yue**, Ji Shiyu, Zang Wenjing, Wang Nianchen, Cao Jinping, Li Xian, Sun Chongde*. Identification of phenolic compounds from a unique citrus species, finger lime (*Citrus* *australasica*) and their inhibition of LPS-induced NO-releasing in BV-2 cell line[J]. **Food and Chemical Toxicology**, 2019, 129: 54-63. (IF5 = 4.5)
 
-19. **Wang Yue**, Zhang Xianan, Xie Wenhua, Zheng Yixiong, Cao Jinping, Cao Peirang, Chen Qingjun, Li Xian, Sun Chongde*. The growth of SGC-7901 tumor xenografts was suppressed by Chinese bayberry anthocyanin extract through upregulating *KLF6* gene expression[J]. **Nutrients**, 2016, 8(10): 599. (IF5 = 5.8)
+19. **Wang Yue**, Qian Jing, Cao Jinping, Wang Dengliang, Liu Chunrong, Yang Rrongxi, Li Xian, Sun Chongde*. Antioxidant capacity, anticancer ability and flavonoids composition of 35 citrus (*Citrus* *reticulata* Blanco) varieties[J]. **Molecules**, 2017, 22(7): 1114. (IF5 = 4.6)
+
+20. **Wang Yue**, Zhang Xianan, Xie Wenhua, Zheng Yixiong, Cao Jinping, Cao Peirang, Chen Qingjun, Li Xian, Sun Chongde*. The growth of SGC-7901 tumor xenografts was suppressed by Chinese bayberry anthocyanin extract through upregulating *KLF6* gene expression[J]. **Nutrients**, 2016, 8(10): 599. (IF5 = 5.8)
 
 #### 第一或通讯作者发表论文 / First or Corresponding Author
 
