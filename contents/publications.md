@@ -16,7 +16,7 @@
 
 8. Sun Liping, Huo Jingtian, Liu Jieya, Yu Jiayi, Zhou Jialing, Sun Chongde, **Wang Yue***, Leng Feng*. Anthocyanins distribution, transcriptional regulation, epigenetic and post-translational modification in fruits[J]. **Food Chemistry**, 2023: 135540. (IF5 = 8.2, 高被引论文, Highly Cited Papers)[Paper](https://www.sciencedirect.com/science/article/pii/S0308814623001565)
 
-9. Chen Yunyi, Liang Jiaojiao, Wang Dengliang, Chen Jiebiao, Cao Jinping, **Wang Yue***, Sun Chongde*. Nobiletin as a chemopreventive natural product against cancer, a comprehensive review[J]. **Critical Reviews in Food Science and Nutrition**, 2023, 23(63):6309-6329. (IF5 = 10.3)[Paper](https://www.tandfonline.com/doi/abs/10.1080/10408398.2022.2030297)
+9. Chen Yunyi, Liang Jiaojiao, Wang Dengliang, Chen Jiebiao, Cao Jinping, **Wang Yue***, Sun Chongde*. Nobiletin as a chemopreventive natural product against cancer, a comprehensive review[J]. **Critical Reviews in Food Science and Nutrition**, 2023, 23(63):6309-6329. (IF5 = 10.3)[[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10408398.2022.2030297) [[PDF]](https://github.com/wy-omics/academic_file/blob/main/2021%20%5BCritical%20reviews%20in%20food%20science%20and%20nutrition%5D%20Citrus%20flavonoids%20and%20their%20antioxidant%20evaluation.pdf)
 
 10. Chen Jiebiao, Shu Yichen, Chen Yanhong, Ge Zhiwei, Zhang Changfeng, Cao Jinping, Li Xian, **Wang Yue***, Sun Chongde. Evaluation of Antioxidant Capacity and Gut Microbiota Modulatory Effects of Different Kinds of Berries[J]. **Antioxidants**, 2022, 11(5): 1020. (IF5 = 6.7)[Paper](https://doi.org/10.3390/antiox11051020)
 
