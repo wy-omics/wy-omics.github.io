@@ -44,3 +44,15 @@
 
   * Food Control
 
+  * Phytomedicine
+
+  * Postharvest Biology and Technology
+
+  * LWT - Food Science & Technology
+
+  * Journal of Environmental Sciences
+
+* **受邀报告**
+
+  * 第二届农业食品青年科学家学术沙龙 大会报告，2024.11.8~10，山东 济南
+
