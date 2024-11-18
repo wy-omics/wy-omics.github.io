@@ -56,3 +56,6 @@
 
 10. 植物天然产物数据库系统V1.0 （2022SR0728202）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E6%A4%8D%E7%89%A9%E5%A4%A9%E7%84%B6%E4%BA%A7%E7%89%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9FV1.0%202022SR0728202.pdf)
 
+11. 香料植物精油数据库系统[简称：APEOD]V1.0（2024SR1811145）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E9%A6%99%E6%96%99%E6%A4%8D%E7%89%A9%E7%B2%BE%E6%B2%B9%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.pdf)
+
+12. 智能化香料植物精油信息检索平台V1.0（2024SR1822658）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E6%99%BA%E8%83%BD%E5%8C%96%E9%A6%99%E6%96%99%E6%A4%8D%E7%89%A9%E7%B2%BE%E6%B2%B9%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E5%B9%B3%E5%8F%B0.pdf)
