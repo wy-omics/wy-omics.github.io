@@ -2,6 +2,8 @@
 
 * **Frontiers in Nutrition 副主编（Associate Editor）**（2024.10 - 至今）
 
+* **Food Chemistry International 编辑部主任（Deputy Editor）**（2024.12 - 至今）
+
 *  **Antioxidants 客座主编（Guest Editor）**
 
   * SI: The Preventive and Therapeutic Effects of Fruit Antioxidants on Chronic Diseases
