@@ -26,6 +26,9 @@
 
 13. Sun Chongde, **Wang Yue**, Cao Jinping; HYPOGLYCEMIC USAGE OF MANDARIN ORANGE FRUIT EXTRACT，尼日利亚发明专利（CRP: 009283, RP: F/PT/NC/2024/12354, Date of Patent: 14/05/2024）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_HYPOGLYCEMIC%20USAGE%20OF%20MANDARIN%20ORANGE%20FRUIT%20EXTRACT.pdf)
 
+14. 曹锦萍，孙崇德，冯天一，张学敏，康晨，**王岳**；水杨酸甲酯在抑制柑橘汁胞次生壁发育中的应用，国家发明专利（ZL202310726095.4，申请：2022.06.19，授权：2024.06.11）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202310726095.4%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6-%E6%B0%B4%E6%9D%A8%E9%85%B8%E7%94%B2%E9%85%AF%E5%9C%A8%E6%8A%91%E5%88%B6%E6%9F%91%E6%A9%98%E6%B1%81%E8%83%9E%E6%AC%A1%E7%94%9F%E5%A3%81%E5%8F%91%E8%82%B2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-2023107260954.pdf)
+
+
  
 
 #### 标准：
