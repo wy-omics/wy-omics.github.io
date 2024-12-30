@@ -64,3 +64,5 @@
 12. 智能化香料植物精油信息检索平台V1.0（2024SR1822658）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E6%99%BA%E8%83%BD%E5%8C%96%E9%A6%99%E6%96%99%E6%A4%8D%E7%89%A9%E7%B2%BE%E6%B2%B9%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E5%B9%B3%E5%8F%B0.pdf)
 
 13. 果蔬冷害识别系统[简称：FVCDIS]V1.0（2024SR1823943）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E6%9E%9C%E8%94%AC%E5%86%B7%E5%AE%B3%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F.pdf)
+
+14. 果树育种优良性状智能化筛选与评估系统 V1.0 (2024SR2154517) [[PDF]](https://github.com/wy-omics/academic_file/blob/main/sfotware/%E6%9E%9C%E6%A0%91%E8%82%B2%E7%A7%8D%E4%BC%98%E8%89%AF%E6%80%A7%E7%8A%B6%E6%99%BA%E8%83%BD%E5%8C%96%E7%AD%9B%E9%80%89%E4%B8%8E%E8%AF%84%E4%BC%B0%E7%B3%BB%E7%BB%9F%20V1.0%202024SR2154517.pdf)
