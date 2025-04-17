@@ -42,7 +42,8 @@
 
 #### 参与作者发表论文 / Co-Author
 
-1. Liang Jiaojiao, Chen Yunyi, Wu Manxi, Chen Jiebiao, Sun Cui, Cao Jinping, **Wang Yue**, Sun Chongde\*. Anthocyanin Extracts From 11 Superfruits Mitigate Oxidative Stress and Inflammatory Damage in HK-2 Cells Induced by Cadmium Exposure[J]. **Food Frontiers**, 2025 (IF5 = 9.4)[\[Paper\]](https://https://iadns.onlinelibrary.wiley.com/doi/10.1002/fft2.70019)
+1. Liang Jiaojiao, Chen Yunyi, Wu Manxi, Chen Jiebiao, Sun Cui, Cao Jinping, **Wang Yue**, Sun Chongde\*. Anthocyanin Extracts From 11 Superfruits Mitigate Oxidative Stress and Inflammatory Damage in HK-2 Cells Induced by Cadmium Exposure[J]. **Food Frontiers**, 2025 (IF5 = 9.4)[\[Paper\]](https://https://iadns.onlinelibrary.wiley.com/doi/10.1002/fft2.70019) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2025%20%5BFood%20Frontiers%5D%20Anthocyanin%20Extracts%20From%2011%20Superfruits%20Mitigate%20Oxidative%20Stress%20and%20Inflammatory%20Damage.pdf)
+
 
 2. Liao Bin, Liu Xiaojuan, Li Yujia, Ge Yongfu, Liang Xiao, Liao Zhenkun, Zhao Chenning, Cao Jinping, Wang Huixin, Li Shaojia, **Wang Yue**, Wang Dengliang, Ge Zhiwei, Wu Xiaodan, Sun Chongde\*. Functional Characterization of a Highly Efficient UDP-Glucosyltransferase CitUGT72AZ4 Involved in the Biosynthesis of Flavonoid Glycosides in Citrus[J]. **Journal of Agricultural and Food Chemistry**, 2025, 73(9) 5450–5464 (IF5 = 6.0)[\[Paper\]](https://pubs.acs.org/doi/10.1021/acs.jafc.4c07454) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2025%20%5BJAFC%5D%20Functional%20Characterization%20of%20a%20Highly%20Efficient%20UDP-Glucosyltransferase%20CitUGT72AZ4%20Involved%20in%20the%20Biosynthesis%20of%20Flavonoid%20Glycosides%20in%20Citrus.pdf)
 
