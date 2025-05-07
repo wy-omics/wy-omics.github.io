@@ -6,6 +6,10 @@
 
 * **Letters in Functional Foods 编委（Editorial Board Member）**（2024.12 - 至今）
 
+* **iMeta 青年编委**（2025.04 - 至今）
+
+* **Phyton-International Journal of Experimental Botany青年编委（Early Career Editoral Board Member）**（2023.04 - 至今）
+
 * **Antioxidants 客座主编（Guest Editor）**
 
   * SI: The Preventive and Therapeutic Effects of Fruit Antioxidants on Chronic Diseases
@@ -21,8 +25,6 @@
 * **Antioxidants 专题咨询小组成员（Topical Advisory Panel Member）**（2022.06 - 至今）
 
 * **Frontiers in Nutrition 编委会审稿编辑（Review Editor on the Editorial Board）**（2022.07 - 至今）
-
-* **Phyton-International Journal of Experimental Botany青年编委（Early Career Editoral Board Member）**（2023.04 - 至今）
 
 * **Journal of Integrative Agriculture(农业科学学报)学术联络员**（2023.06 - 至今）
 
