@@ -4,6 +4,8 @@
 
 * **Food Chemistry International 编辑部主任（Deputy Editor）**（2024.12 - 至今）
 
+* **Food Frontiers 编委（Editorial Board Member）**（2025.08 - 至今）
+
 * **Letters in Functional Foods 编委（Editorial Board Member）**（2024.12 - 至今）
 
 * **iMeta 青年编委**（2025.04 - 至今）
