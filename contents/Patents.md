@@ -7,42 +7,41 @@
 
 3. **王岳**，孙崇德，韩璐阳，曹锦萍，舒宜晨；一种枇杷叶提取物及其制备方法和应用，国家发明专利（ZL202210290222.6，申请：2022.03.23，授权：2023.04.04）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210290222.6_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E6%9E%87%E6%9D%B7%E5%8F%B6%E6%8F%90%E5%8F%96%E7%89%A9%E5%8F%8A%E5%85%B6%E5%88%B6%E5%A4%87%E6%96%B9%E6%B3%95%E5%92%8C%E5%BA%94%E7%94%A8.pdf)
 
+4. **Wang Yue**, Sun Chongde, Cao Jinping, Chen Yunyi, Chen Jiebiao; APPLICATION OF TANGERETIN AND NOBILETIN MIXTURE IN PREPARING FUNCTIONAL PRODUCTS TO ACTIVATE ABILITY OF CELLS TO RESIST OXIDATIVE STRESS, 南非发明专利 (2024/05212)[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP20240402667-%E6%A9%98%E7%9A%AE%E7%B4%A0%E3%80%81%E5%B7%9D%E9%99%88%E7%9A%AE%E7%B4%A0%E6%8A%97%E6%B0%A7%E5%8C%96.pdf)
 
-4. 孙崇德，**王岳**，陈昆松，李鲜，曹锦萍；从瓯柑果实中分离纯化多甲氧基黄酮类化合物的方法，国家发明专利（ZL201710249297.9，申请：2017.04.17，授权：2019.09.13）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL201710249297.9_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%BB%8E%E7%93%AF%E6%9F%91%E6%9E%9C%E5%AE%9E%E4%B8%AD%E5%88%86%E7%A6%BB%E7%BA%AF%E5%8C%96%E5%A4%9A%E7%94%B2%E6%B0%A7%E5%9F%BA%E9%BB%84%E9%85%AE%E7%B1%BB%E5%8C%96%E5%90%88%E7%89%A9%E7%9A%84%E6%96%B9%E6%B3%95.pdf)
+5. 孙崇德，葛永福，曹锦萍，郑暄昂，**王岳**，叶先明，郑桂霞；一种预测西梅贮藏期间果实硬度及货架期的方法和程序产品，国家发明专利（ZL202510276902.6，申请日：2025.03.10，授权日：2025.06.24）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL2025102769026_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E9%A2%84%E6%B5%8B%E8%A5%BF%E6%A2%85%E8%B4%AE%E8%97%8F%E6%9C%9F%E9%97%B4%E6%9E%9C%E5%AE%9E%E7%A1%AC%E5%BA%A6%E5%8F%8A%E8%B4%A7%E6%9E%B6%E6%9C%9F%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E7%A8%8B%E5%BA%8F%E4%BA%A7%E5%93%81.pdf)
 
-5. 孙崇德，**王岳**，陈云义，曹锦萍，李鲜；槲皮素的氧甲基修饰物在制备抑制肿瘤细胞增殖的药物中的应用，国家发明专利（ZL202111578422.3，申请：2021.12.22，授权：2024.03.29）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202111578422.3_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E6%A7%B2%E7%9A%AE%E7%B4%A0%E7%9A%84%E6%B0%A7%E7%94%B2%E5%9F%BA%E4%BF%AE%E9%A5%B0%E7%89%A9%E5%9C%A8%E5%88%B6%E5%A4%87%E6%8A%91%E5%88%B6%E8%82%BF%E7%98%A4%E7%BB%86%E8%83%9E%E5%A2%9E%E6%AE%96%E7%9A%84%E8%8D%AF%E7%89%A9%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20.pdf)
-
-6. 孙崇德，刘晓娟，赵晨柠，**王岳**，曹锦萍，李鲜，陈昆松；参与柑橘果皮黄酮合成的氧甲基转移酶及其编码基因与应用，国家发明专利（ZL201811310003.X，申请：2018.11.02，授权：2021.07.13）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL201811310003.X_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E5%8F%82%E4%B8%8E%E6%9F%91%E6%A9%98%E6%9E%9C%E7%9A%AE%E9%BB%84%E9%85%AE%E5%90%88%E6%88%90%E7%9A%84%E6%B0%A7%E7%94%B2%E5%9F%BA%E8%BD%AC%E7%A7%BB%E9%85%B6%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81%E5%9F%BA%E5%9B%A0%E4%B8%8E%E5%BA%94%E7%94%A8.pdf)
-
-7. 孙崇德，葛永福，曹锦萍，郑暄昂，**王岳**，叶先明，郑桂霞；一种预测西梅贮藏期间果实硬度及货架期的方法和程序产品，国家发明专利（ZL202510276902.6，申请日：2025.03.10，授权日：2025.06.24）
-
-8. 孙崇德，孙翠，曹锦萍，**王岳**，徐昌杰，陈昆松；一种抗菌剂及其制备方法、可食性抑菌涂膜剂及其制备方法和应用，国家发明专利（ZL202111111737.7，申请：2021.09.23，授权：2024.04.02)[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202111111737.7_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E6%8A%97%E8%8F%8C%E5%89%82%E5%8F%8A%E5%85%B6%E5%88%B6%E5%A4%87%E6%96%B9%E6%B3%95%E3%80%81%E5%8F%AF%E9%A3%9F%E6%80%A7%E6%8A%91%E8%8F%8C%E6%B6%82%E8%86%9C%E5%89%82%E5%8F%8A%E5%85%B6%E5%88%B6%E5%A4%87%E6%96%B9%E6%B3%95%E5%92%8C%E5%BA%94%E7%94%A8.pdf)
-
-9. 曹锦萍，孙崇德，吴珏，孙翠，张禾，**王岳**；一种柑橘贮运过程中酸腐病病害监测的方法，国家发明专利（ZL202210129294.2，申请：2022.02.11，授权：2022.10.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111605-%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%9B%91%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)
-
-10. 曹锦萍，孙崇德，姜安泽，康晨，吴珏，张禾，**王岳**；一种四季豆的保鲜方法，国家发明专利（ZL202210284634.9，申请：2022.03.22，授权：2024.03.08）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210284634.9_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E5%9B%9B%E5%AD%A3%E8%B1%86%E7%9A%84%E4%BF%9D%E9%B2%9C%E6%96%B9%E6%B3%95.PDF)
-
-11. 曹锦萍，孙崇德，冯天一，张学敏，康晨，**王岳**；水杨酸甲酯在抑制柑橘汁胞次生壁发育中的应用，国家发明专利（ZL202310726095.4，申请：2022.06.19，授权：2024.06.11）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202310726095.4%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6-%E6%B0%B4%E6%9D%A8%E9%85%B8%E7%94%B2%E9%85%AF%E5%9C%A8%E6%8A%91%E5%88%B6%E6%9F%91%E6%A9%98%E6%B1%81%E8%83%9E%E6%AC%A1%E7%94%9F%E5%A3%81%E5%8F%91%E8%82%B2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-2023107260954.pdf)
-
-12. 郑毅雄，孙崇德，王衍帅；**王岳**；郑芳红；杨梅果实花色苷提取物在制备治疗腹泻的药物中的应用，国家发明专利（ZL202210335148.5，申请：2022.06.17，授权：2023.07.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210335148.5_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E6%9D%A8%E6%A2%85%E6%9E%9C%E5%AE%9E%E8%8A%B1%E8%89%B2%E8%8B%B7%E6%8F%90%E5%8F%96%E7%89%A9%E5%9C%A8%E5%88%B6%E5%A4%87%E6%B2%BB%E7%96%97%E8%85%B9%E6%B3%BB%E7%9A%84%E8%8D%AF%E7%89%A9%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
-
-13. **Wang Yue**, Sun Chongde, Cao Jinping, Chen Yunyi, Chen Jiebiao; APPLICATION OF TANGERETIN AND NOBILETIN MIXTURE IN PREPARING FUNCTIONAL PRODUCTS TO ACTIVATE ABILITY OF CELLS TO RESIST OXIDATIVE STRESS, 南非发明专利 (2024/05212)[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP20240402667-%E6%A9%98%E7%9A%AE%E7%B4%A0%E3%80%81%E5%B7%9D%E9%99%88%E7%9A%AE%E7%B4%A0%E6%8A%97%E6%B0%A7%E5%8C%96.pdf)
-
-14. Zhu Changqing, Sun Chongde, **Wang Yue**, Li Xian; METHOD OF EFFECTIVELY SEPARATING AND PURIFYING SEVEN FLAVONOID COMPOUNDS FROM OUGAN FLAVEDO，南非发明专利（2021/10928）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111980%20-%E4%B8%80%E7%A7%8D%E6%9C%89%E6%95%88%E7%9A%84%E4%BB%8E%E7%93%AF%E6%9F%91%E6%B2%B9%E8%83%9E%E5%B1%82%E4%B8%AD%E5%88%86%E7%A6%BB%E7%BA%AF%E5%8C%96%E4%B8%83%E7%A7%8D%E9%BB%84%E9%85%AE%E7%B1%BB%E5%8C%96%E5%90%88%E7%89%A9%E7%9A%84%E6%96%B9%E6%B3%95.pdf)
-
-15. Sun Chongde, Cao Jinping, Wu Jue, **Wang Yue**, Kang Chen; METHOD OF MONITORING ACID ROT DURING CITRUS STORAGE AND TRANSPORTATION，南非发明专利（2021/10714）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111605-%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%9B%91%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)
-
-16. Cao Jinping, Sun Chongde, Jiang Anze, Kang Chen, Wu Jue, Zhang He, **Wang Yue**; POST-HARVEST FRESH-KEEPING PACKAGING PRODUCT AND PACKAGING METHOD FOR KIDNEY BEANS，南非发明专利（2022/03342）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%20%E8%AF%81%E4%B9%A6%20%E6%9B%B9%E9%94%A6%E8%90%8D%20POST-HARVEST%20FRESH-KEEPING%20PACKAGING%20PRODUCT%20AND%20PACKAGING%20METHOD%20FOR%20KIDNEY%20BEANS.pdf)
-
-17. Sun Chongde, **Wang Yue**, Cao Jinping; HYPOGLYCEMIC USAGE OF MANDARIN ORANGE FRUIT EXTRACT，尼日利亚发明专利（CRP: 009283, RP: F/PT/NC/2024/12354, Date of Patent: 14/05/2024）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_HYPOGLYCEMIC%20USAGE%20OF%20MANDARIN%20ORANGE%20FRUIT%20EXTRACT.pdf)
+6. 孙崇德，孙翠，曹锦萍，**王岳**，徐昌杰，陈昆松；一种抗菌剂及其制备方法、可食性抑菌涂膜剂及其制备方法和应用，国家发明专利（ZL202111111737.7，申请：2021.09.23，授权：2024.04.02)[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202111111737.7_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E6%8A%97%E8%8F%8C%E5%89%82%E5%8F%8A%E5%85%B6%E5%88%B6%E5%A4%87%E6%96%B9%E6%B3%95%E3%80%81%E5%8F%AF%E9%A3%9F%E6%80%A7%E6%8A%91%E8%8F%8C%E6%B6%82%E8%86%9C%E5%89%82%E5%8F%8A%E5%85%B6%E5%88%B6%E5%A4%87%E6%96%B9%E6%B3%95%E5%92%8C%E5%BA%94%E7%94%A8.pdf)
 
 
+7. 孙崇德，**王岳**，陈云义，曹锦萍，李鲜；槲皮素的氧甲基修饰物在制备抑制肿瘤细胞增殖的药物中的应用，国家发明专利（ZL202111578422.3，申请：2021.12.22，授权：2024.03.29）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202111578422.3_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E6%A7%B2%E7%9A%AE%E7%B4%A0%E7%9A%84%E6%B0%A7%E7%94%B2%E5%9F%BA%E4%BF%AE%E9%A5%B0%E7%89%A9%E5%9C%A8%E5%88%B6%E5%A4%87%E6%8A%91%E5%88%B6%E8%82%BF%E7%98%A4%E7%BB%86%E8%83%9E%E5%A2%9E%E6%AE%96%E7%9A%84%E8%8D%AF%E7%89%A9%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20.pdf)
+
+8. 孙崇德，刘晓娟，赵晨柠，**王岳**，曹锦萍，李鲜，陈昆松；参与柑橘果皮黄酮合成的氧甲基转移酶及其编码基因与应用，国家发明专利（ZL201811310003.X，申请：2018.11.02，授权：2021.07.13）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL201811310003.X_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E5%8F%82%E4%B8%8E%E6%9F%91%E6%A9%98%E6%9E%9C%E7%9A%AE%E9%BB%84%E9%85%AE%E5%90%88%E6%88%90%E7%9A%84%E6%B0%A7%E7%94%B2%E5%9F%BA%E8%BD%AC%E7%A7%BB%E9%85%B6%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81%E5%9F%BA%E5%9B%A0%E4%B8%8E%E5%BA%94%E7%94%A8.pdf)
+
+9. 孙崇德，**王岳**，陈昆松，李鲜，曹锦萍；从瓯柑果实中分离纯化多甲氧基黄酮类化合物的方法，国家发明专利（ZL201710249297.9，申请：2017.04.17，授权：2019.09.13）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL201710249297.9_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%BB%8E%E7%93%AF%E6%9F%91%E6%9E%9C%E5%AE%9E%E4%B8%AD%E5%88%86%E7%A6%BB%E7%BA%AF%E5%8C%96%E5%A4%9A%E7%94%B2%E6%B0%A7%E5%9F%BA%E9%BB%84%E9%85%AE%E7%B1%BB%E5%8C%96%E5%90%88%E7%89%A9%E7%9A%84%E6%96%B9%E6%B3%95.pdf)
+ 
+10. Sun Chongde, **Wang Yue**, Cao Jinping; HYPOGLYCEMIC USAGE OF MANDARIN ORANGE FRUIT EXTRACT，尼日利亚发明专利（CRP: 009283, RP: F/PT/NC/2024/12354, Date of Patent: 14/05/2024）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_HYPOGLYCEMIC%20USAGE%20OF%20MANDARIN%20ORANGE%20FRUIT%20EXTRACT.pdf)
+
+11. Sun Chongde, Cao Jinping, Wu Jue, **Wang Yue**, Kang Chen; METHOD OF MONITORING ACID ROT DURING CITRUS STORAGE AND TRANSPORTATION，南非发明专利（2021/10714）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111605-%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%9B%91%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)
+
+ 
+12. 曹锦萍，孙崇德，冯天一，张学敏，康晨，**王岳**；水杨酸甲酯在抑制柑橘汁胞次生壁发育中的应用，国家发明专利（ZL202310726095.4，申请：2022.06.19，授权：2024.06.11）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202310726095.4%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6-%E6%B0%B4%E6%9D%A8%E9%85%B8%E7%94%B2%E9%85%AF%E5%9C%A8%E6%8A%91%E5%88%B6%E6%9F%91%E6%A9%98%E6%B1%81%E8%83%9E%E6%AC%A1%E7%94%9F%E5%A3%81%E5%8F%91%E8%82%B2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-2023107260954.pdf)
+
+13. 曹锦萍，孙崇德，姜安泽，康晨，吴珏，张禾，**王岳**；一种四季豆的保鲜方法，国家发明专利（ZL202210284634.9，申请：2022.03.22，授权：2024.03.08）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210284634.9_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E5%9B%9B%E5%AD%A3%E8%B1%86%E7%9A%84%E4%BF%9D%E9%B2%9C%E6%96%B9%E6%B3%95.PDF)
+
+14. 曹锦萍，孙崇德，吴珏，孙翠，张禾，**王岳**；一种柑橘贮运过程中酸腐病病害监测的方法，国家发明专利（ZL202210129294.2，申请：2022.02.11，授权：2022.10.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111605-%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%9B%91%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)
+
+15. Cao Jinping, Sun Chongde, Jiang Anze, Kang Chen, Wu Jue, Zhang He, **Wang Yue**; POST-HARVEST FRESH-KEEPING PACKAGING PRODUCT AND PACKAGING METHOD FOR KIDNEY BEANS，南非发明专利（2022/03342）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%20%E8%AF%81%E4%B9%A6%20%E6%9B%B9%E9%94%A6%E8%90%8D%20POST-HARVEST%20FRESH-KEEPING%20PACKAGING%20PRODUCT%20AND%20PACKAGING%20METHOD%20FOR%20KIDNEY%20BEANS.pdf)
+
+16. 郑毅雄，孙崇德，王衍帅；**王岳**；郑芳红；杨梅果实花色苷提取物在制备治疗腹泻的药物中的应用，国家发明专利（ZL202210335148.5，申请：2022.06.17，授权：2023.07.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210335148.5_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E6%9D%A8%E6%A2%85%E6%9E%9C%E5%AE%9E%E8%8A%B1%E8%89%B2%E8%8B%B7%E6%8F%90%E5%8F%96%E7%89%A9%E5%9C%A8%E5%88%B6%E5%A4%87%E6%B2%BB%E7%96%97%E8%85%B9%E6%B3%BB%E7%9A%84%E8%8D%AF%E7%89%A9%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
+
+17. Zhu Changqing, Sun Chongde, **Wang Yue**, Li Xian; METHOD OF EFFECTIVELY SEPARATING AND PURIFYING SEVEN FLAVONOID COMPOUNDS FROM OUGAN FLAVEDO，南非发明专利（2021/10928）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111980%20-%E4%B8%80%E7%A7%8D%E6%9C%89%E6%95%88%E7%9A%84%E4%BB%8E%E7%93%AF%E6%9F%91%E6%B2%B9%E8%83%9E%E5%B1%82%E4%B8%AD%E5%88%86%E7%A6%BB%E7%BA%AF%E5%8C%96%E4%B8%83%E7%A7%8D%E9%BB%84%E9%85%AE%E7%B1%BB%E5%8C%96%E5%90%88%E7%89%A9%E7%9A%84%E6%96%B9%E6%B3%95.pdf)
 
 
 
 #### 标准：
 
-1. 曹锦萍，孙翠，孙崇德，叶先明，郑桂霞，**王岳**；柑橘涂膜保鲜，企业标准，标准编号： Q/330800ZJJN005-2021
+1. 曹锦萍，孙翠，孙崇德，叶先明，郑桂霞，**王岳**；柑橘涂膜保鲜，企业标准，标准编号：Q/330800ZJJN005-2021
 
 
 
