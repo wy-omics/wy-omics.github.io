@@ -108,16 +108,18 @@
 
 30. 朱长青，**王岳**，林良夫，孙崇德\*. 大食物观指导下的农业科学创新\[J].**农学学报**，2024, 14(3): 110-116.[\[Paper\]](http://nxxb.caass.org.cn/CN/abstract/abstract30124.shtml) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2024%20%5Bnongxuexuebao%5D.pdf)
 
-31. 刘阳，臧文静，梁潇，**王岳**，李鲜，孙崇德\*. 23个柑橘品种果实油胞层类黄酮组分鉴定与抗氧化活性研究\[J].**中国食品学报**，2022.[\[Paper\]](https://zgspxb.cnjournals.org/zgspxb/article/abstract/20221224) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2022%20%5Bzhongguoshipinxuebao%5D.pdf)
+31. 秦芸桦，钟世欢，陈青俊，王京，**王岳**，叶佳明，陈云义，孙崇德.分散固相萃取-液相色谱-串联质谱法测定不同品种柑橘果实不同部位中3种柠檬苦素类似物的含量\[J].**理化检验（化学分册）**,2024, 60(2): 171-179[\[Paper\]](https://lhjyhxfc.mat-test.com/cn/article/doi/10.11973/lhjy-hx202402007) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2024%20%5Blihuajianyan%5D.pdf)
 
-32. 钟世欢，陈青俊\*，王京，叶佳明，杨琳，**王岳**，陈云义，孙崇德. QuEChERS-HPLC测定柚类果实中柠檬苦素类化合物\[J]. **食品与发酵工业**, 2021.[\[Paper\]](http://sf1970.cnif.cn/CN/10.13995/j.cnki.11-1802/ts.028702) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bshipinyufajiaogongye%5D%20QuEChERS-HPLC.pdf)
+32. 刘阳，臧文静，梁潇，**王岳**，李鲜，孙崇德\*. 23个柑橘品种果实油胞层类黄酮组分鉴定与抗氧化活性研究\[J].**中国食品学报**，2022.[\[Paper\]](https://zgspxb.cnjournals.org/zgspxb/article/abstract/20221224) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2022%20%5Bzhongguoshipinxuebao%5D.pdf)
 
-33. 梁姣娇#，陈云义#，**王岳**，陈杰标，曹锦萍，李鲜，孙崇德\*. 我国主要园艺植物天然产物研究进展\[J]. **浙江大学学报（农业与生命科学版）**, 2021 (6): 683-694.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2021.06.151) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bzjuxuebao%5D%20woguozhuyao.pdf)
+33. 钟世欢，陈青俊\*，王京，叶佳明，杨琳，**王岳**，陈云义，孙崇德. QuEChERS-HPLC测定柚类果实中柠檬苦素类化合物\[J]. **食品与发酵工业**, 2021.[\[Paper\]](http://sf1970.cnif.cn/CN/10.13995/j.cnki.11-1802/ts.028702) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bshipinyufajiaogongye%5D%20QuEChERS-HPLC.pdf)
 
-34. 朱泰霖#，王慧心#，陈杰标，**王岳**, 曹锦萍，李鲜，孙崇德\*. 不同品种柑橘果实的类黄酮分离纯化及其抗氧化活性研究\[J]. **浙江大学学报（农业与生命科学版）**, 2021 (6): 704-718.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2021.06.152) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bzjuxuebao%5D%20butongpinzhongganju.pdf)
+34. 梁姣娇#，陈云义#，**王岳**，陈杰标，曹锦萍，李鲜，孙崇德\*. 我国主要园艺植物天然产物研究进展\[J]. **浙江大学学报（农业与生命科学版）**, 2021 (6): 683-694.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2021.06.151) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bzjuxuebao%5D%20woguozhuyao.pdf)
 
-35. 吴珏，谢文华，徐淑婷，陈烨芝，曹锦萍，**王岳**，孙崇德\*. 高压静电场处理对椪柑采后贮藏性的影响\[J]. **浙江大学学报（农业与生命科学版）**, 2020, 46(1): 64-73[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2019.09.061) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2020%20%5Bzjuxuebao%5D%20gaoyajingdian.pdf)
+35. 朱泰霖#，王慧心#，陈杰标，**王岳**, 曹锦萍，李鲜，孙崇德\*. 不同品种柑橘果实的类黄酮分离纯化及其抗氧化活性研究\[J]. **浙江大学学报（农业与生命科学版）**, 2021 (6): 704-718.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2021.06.152) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2021%20%5Bzjuxuebao%5D%20butongpinzhongganju.pdf)
 
-36. 曹锦萍，陈烨芝，孙翠，**王岳**，陈昆松，张长峰，孙崇德\*. 我国果蔬产地商品化技术支撑体系发展现状\[J]. **浙江大学学报（农业与生命科学版）**, 2020, 46(1): 1-7.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2019.11.171) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2020%20%5Bzjuxuebao%5D%20woguoguoshu.pdf)
+36. 吴珏，谢文华，徐淑婷，陈烨芝，曹锦萍，**王岳**，孙崇德\*. 高压静电场处理对椪柑采后贮藏性的影响\[J]. **浙江大学学报（农业与生命科学版）**, 2020, 46(1): 64-73[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2019.09.061) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2020%20%5Bzjuxuebao%5D%20gaoyajingdian.pdf)
 
-37. 金蓉，谢文华，陈杰标，王念晨，项白雪，**王岳**，曹锦萍\*. 超声辅助热水提取对铁皮石斛水溶性多糖得率和结构的影响\[J]. **浙江大学学报（农业与生命科学版）**, 2019, 45(2): 196-204[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2018.04.161) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2019%20%5Bzjuxuebao%5D%20chaoshengfuzhu.pdf)
+37. 曹锦萍，陈烨芝，孙翠，**王岳**，陈昆松，张长峰，孙崇德\*. 我国果蔬产地商品化技术支撑体系发展现状\[J]. **浙江大学学报（农业与生命科学版）**, 2020, 46(1): 1-7.[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2019.11.171) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2020%20%5Bzjuxuebao%5D%20woguoguoshu.pdf)
+
+38. 金蓉，谢文华，陈杰标，王念晨，项白雪，**王岳**，曹锦萍\*. 超声辅助热水提取对铁皮石斛水溶性多糖得率和结构的影响\[J]. **浙江大学学报（农业与生命科学版）**, 2019, 45(2): 196-204[\[Paper\]](https://www.zjujournals.com/agr/CN/10.3785/j.issn.1008-9209.2018.04.161) [\[PDF\]](https://github.com/wy-omics/academic_file/blob/main/co_author/2019%20%5Bzjuxuebao%5D%20chaoshengfuzhu.pdf)
