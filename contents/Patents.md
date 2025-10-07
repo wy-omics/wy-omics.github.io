@@ -29,7 +29,7 @@
 
 13. 曹锦萍，孙崇德，姜安泽，康晨，吴珏，张禾，**王岳**；一种四季豆的保鲜方法，国家发明专利（ZL202210284634.9，申请：2022.03.22，授权：2024.03.08）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210284634.9_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E5%9B%9B%E5%AD%A3%E8%B1%86%E7%9A%84%E4%BF%9D%E9%B2%9C%E6%96%B9%E6%B3%95.PDF)
 
-14. 曹锦萍，孙崇德，吴珏，孙翠，张禾，**王岳**；一种柑橘贮运过程中酸腐病病害监测的方法，国家发明专利（ZL202210129294.2，申请：2022.02.11，授权：2022.10.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6HKJP202111605-%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%9B%91%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)
+14. 曹锦萍，孙崇德，吴珏，孙翠，张禾，**王岳**；一种柑橘贮运过程中酸腐病病害监测的方法，国家发明专利（ZL202210129294.2，申请：2022.02.11，授权：2022.10.21）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/ZL202210129294.2_%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6_%E4%B8%80%E7%A7%8D%E6%9F%91%E6%A9%98%E8%B4%AE%E8%BF%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%85%B8%E8%85%90%E7%97%85%E7%97%85%E5%AE%B3%E7%9B%91%E6%B5%8B%E7%9A%84%E6%96%B9%E6%B3%95.pdf)
 
 15. Cao Jinping, Sun Chongde, Jiang Anze, Kang Chen, Wu Jue, Zhang He, **Wang Yue**; POST-HARVEST FRESH-KEEPING PACKAGING PRODUCT AND PACKAGING METHOD FOR KIDNEY BEANS，南非发明专利（2022/03342）[[PDF]](https://github.com/wy-omics/academic_file/blob/main/patents/%E5%8D%97%E9%9D%9E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%20%E8%AF%81%E4%B9%A6%20%E6%9B%B9%E9%94%A6%E8%90%8D%20POST-HARVEST%20FRESH-KEEPING%20PACKAGING%20PRODUCT%20AND%20PACKAGING%20METHOD%20FOR%20KIDNEY%20BEANS.pdf)
 
