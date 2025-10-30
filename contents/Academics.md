@@ -18,6 +18,8 @@
 
   * SI: Antioxidants in Fruits and Their Health-Promoting Effects
 
+  * SI: Natural Antioxidants from Plants in Combating Metabolism-Related Diseases [\[Special Issue\]](https://www.mdpi.com/journal/antioxidants/special_issues/9F28CX25D8)
+
 * **Frontiers in Nutrition 客座主编（Guest Editor）**
 
 * **Frontiers in Immunology 客座主编（Guest Editor）**
