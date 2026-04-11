@@ -1,6 +1,6 @@
 #### 在研项目
 
-* 衢橘产业高质量发展关键技术研究与应用（），浙江省三农九方项目，the Scientific and Technological Cooperation Project of the Agriculture and Rural Affairs Department of Zhejiang Province，2026.01~2027.12，主持
+* 衢橘产业高质量发展关键技术研究与应用（2026SNJF079），浙江省三农九方项目，the Scientific and Technological Cooperation Project of the Agriculture and Rural Affairs Department of Zhejiang Province (Grant No. 2026SNJF079)，2026.01~2027.12，主持
 
 * 柑橘风味和营养物质形成的关键基因及其分子调控机制研究（LHZSD24C150001），浙江省自然科学基金杭州联合基金重大项目，the Zhejiang Provincial Natural Science Foundation of China – Hangzhou Joint Fund (Grant No. LHZSD24C150001)，2024.01~2026.12，课题负责人
 
