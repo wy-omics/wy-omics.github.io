@@ -6,7 +6,7 @@
 
 * 柑橘类黄酮生物合成关键基因及其网络调控机制研究（U25A20688），国自然区域联合基金，the National Natural Science Foundation of China (Grant No. U25A20688)，2026.01-2029.12，课题负责人
 
-* 柑橘采后品质维持及高值化利用技术研究与集成推广（），浙江省农业重大技术协同推广计划，the Agricultural Major Technology Collaborative Promotion Program of Zhejiang Province，2026.01-2027.12，课题负责人
+* 柑橘采后品质维持及高值化利用技术研究与集成推广（2026XTTG02），浙江省农业重大技术协同推广计划，the Agricultural Major Technology Collaborative Promotion Program of Zhejiang Province，2026.01-2027.12，课题负责人
 
 * 川红橘现代化加工关键技术创新与高值化陈皮产品研发（2026YFHZ0239），四川省重点研发项目省校合作项目，the Science and Technology Program of Sichuan Province (Grant No. 2026YFHZ0239)，2026.01-2027.12，课题负责人.
 
